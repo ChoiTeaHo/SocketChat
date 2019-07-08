@@ -1,10 +1,11 @@
 # Hello, welcome to SocetChat
 
-<h5>소켓채팅프로그램 테스트</h5>  
-IO TCP/IP 방식  
-NIO TCP/IP (Blocking) 방식  
-NIO TCP/IP (Non-Blocking) 방식  
-  
+<h5>소켓채팅프로그램 테스트</h5>
+<ul>
+  <li>IO TCP/IP 방식</li>
+<li>NIO TCP/IP (Blocking) 방식</li>
+<li>NIO TCP/IP (Non-Blocking) 방식</li>  
+</ul>
 
 
 ## Demo  
